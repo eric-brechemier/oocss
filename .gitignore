@@ -1,0 +1,8 @@
+# ignore Mac .DS_Store
+.DS_Store
+
+# ignore Windows Thumbnails
+Thumbs.db
+
+# ignore temporary vim files
+*.swp
